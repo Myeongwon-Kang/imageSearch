@@ -6,8 +6,8 @@
 - 검색결과를 클릭시 내 보관함에 저장
 
 
-![Imgur](https://github.com/Myeongwon-Kang/kb/blob/master/1.png)
-![Imgur](https://github.com/Myeongwon-Kang/kb/blob/master/2.png)
+![Imgur](https://github.com/Myeongwon-Kang/imageSearch/blob/master/1.png)
+![Imgur](https://github.com/Myeongwon-Kang/imageSearch/blob/master/2.png)
 
 기타
 - 원래 익숙한 MVP구조를 사용하려다 MVVM구조 적용
